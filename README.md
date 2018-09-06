@@ -5,7 +5,7 @@
 
 To Contribute:-
 
-git Clone https://github.com/Surya11111/D3census.git
-node d3DataGen.js
+- git Clone https://github.com/Surya11111/D3census.git
+- node d3DataGen.js
 
-navigate to *.html files to view patterns
+- navigate to ageWiseLiterateDistribution.html,eduCategDistribution.html,gradPopulationGenderWise.html files to view patterns
